@@ -14,7 +14,9 @@ public class PruebaSantiManuel : MonoBehaviour, IPointerDownHandler, IPointerUpH
 
    void start()
    {
-
+      Debug.Log("Hola");
+      int x = 5;
+      Debug.Log(x);
    }
 
    void update()
