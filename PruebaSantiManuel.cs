@@ -9,7 +9,7 @@ public class PruebaSantiManuel : MonoBehaviour, IPointerDownHandler, IPointerUpH
 {
    void awake()
    {
-    int variable = 2
+    int variable = 3
    }
 
    void start()
